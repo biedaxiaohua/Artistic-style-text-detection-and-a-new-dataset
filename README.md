@@ -1,0 +1,1 @@
+# Artistic-style-text-detection-and-a-new-dataset
